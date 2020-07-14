@@ -1,0 +1,12 @@
+BookRentalSystem\UserRegistered.class
+BookRentalSystem\UserApplication.class
+BookRentalSystem\AbstractEvent$1.class
+BookRentalSystem\config\kafka\KafkaProcessor.class
+BookRentalSystem\UserRepository.class
+BookRentalSystem\User.class
+BookRentalSystem\AbstractEvent.class
+BookRentalSystem\UserController.class
+BookRentalSystem\Cancelled.class
+BookRentalSystem\Returned.class
+BookRentalSystem\PolicyHandler.class
+BookRentalSystem\Rented.class
